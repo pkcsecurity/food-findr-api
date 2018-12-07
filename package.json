@@ -1,0 +1,16 @@
+{
+  "name": "Food Findr API",
+  "version": "1.0.0",
+  "description": "An api for the Food Findr app that helps you find the food you are looking for!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spencer Reeves and Donaville Herrick",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "koa": "^2.6.2"
+  }
+}
